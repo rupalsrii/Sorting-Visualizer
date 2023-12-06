@@ -71,9 +71,22 @@ body {
 }
 
 #sort {
-    float: right;
     background-color: mediumspringgreen;
-    color: black;
+    margin: 5px 2px;
+    padding: 5px 20px;
+    color: #070707;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 50px;
+}
+#stop {
+    background-color: mediumspringgreen;
+    margin: 5px 2px;
+    padding: 5px 20px;
+    color: #110f0f;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 50px;
 }
 
 #sort:hover, #randomize:hover {
